@@ -1,0 +1,17 @@
+body {
+    background-image: url(images/Ingame.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.link {
+    position: absolute;
+    text-decoration: none;
+    margin-top: 2.95em;
+    margin-left: 0.086em;
+    font-size: 6.5em;
+    color: white;
+}
